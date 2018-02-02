@@ -16,8 +16,8 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
 lib64/
+lib/
 parts/
 sdist/
 var/
@@ -97,3 +97,5 @@ ENV/
 # IDEs
 .idea/
 *.iml
+.vscode
+
